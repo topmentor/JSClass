@@ -33,7 +33,11 @@
 -----------------------------------
 
 ## 주요 링크
-1. [의료정보과 교과과정](https://www.shu.ac.kr/file/announcing/cur_mis_2021.pdf) <br>
+1. [Node JS download](https://nodejs.org/ko/) <br>
+2. [Mysql download](https://downloads.mysql.com/archives/installer/) <br>
+3. [Workbench download](https://downloads.mysql.com/archives/workbench/) <br>
+4. [VS Code download](https://code.visualstudio.com/download) <br>
+5. [의료정보과 교과과정](https://www.shu.ac.kr/file/announcing/cur_mis_2021.pdf) <br>
 <br><br>
 
 
