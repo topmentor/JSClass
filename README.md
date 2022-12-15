@@ -2,10 +2,8 @@
 <br>
 
 ## 안내
-1. 기말고사 : 12월 15일 4교시 (12시)
-2. 14주차 강의안 업로드 (2022.12.06) <br>
-3. 13주차 강의안 업로드 (2022.11.29) <br>
-* 연습문제 정답은 'etra_doc' 폴더에 있음
+1. 자소서 쓰기 보강자료 업로드 
+2. 팀 프로젝트 발표자료 및 소스 업로드 
 <br><br>
 
 -----------------------------------
@@ -38,7 +36,6 @@
 2. [Mysql download](https://downloads.mysql.com/archives/installer/) <br>
 3. [Workbench download](https://downloads.mysql.com/archives/workbench/) <br>
 4. [VS Code download](https://code.visualstudio.com/download) <br>
-5. [의료정보과 교과과정](https://www.shu.ac.kr/file/announcing/cur_mis_2021.pdf) <br>
 <br><br>
 
 
